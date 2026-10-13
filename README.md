@@ -12,10 +12,10 @@ El dataset público oficial puede descargarse directamente desde Kaggle:
 * **Power BI:** Modelado de datos, creación de medidas DAX y desarrollo de dashboards interactivos.
 
 ## 📁 Estructura del Proyecto
-* `Olist ETL.ipynb`: Notebook con el proceso de limpieza, manejo de valores nulos, estandarización de formatos y generación de las tablas finales.
+* `Olist_ETL.ipynb`: Notebook con el proceso de limpieza, manejo de valores nulos, estandarización de formatos y generación de las tablas finales.
 * `consultas_olist.sql`: Script unificado con las consultas utilizadas para calcular tickets promedio, distribución de métodos de pago, costos de flete geográficos y tiempos de entrega.
 * `olist_dashboard.pbix`: Archivo de Power BI que contiene los paneles interactivos de "Financials & Operations".
-* `Reporte Olist.pdf`: Documento final estructurado con las conclusiones y recomendaciones estratégicas de negocio.
+* `Reporte_Olist.pdf`: Documento final estructurado con las conclusiones y recomendaciones estratégicas de negocio.
 
 ## 📊 Principales Hallazgos (Insights)
 1. **Comportamiento Financiero:** Las tarjetas de crédito dominan las transacciones (74% del volumen). Existe una correlación directa entre el uso de financiamiento a largo plazo (ej. 10 cuotas) y los picos de ticket promedio alto.
