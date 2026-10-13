@@ -23,8 +23,8 @@ El dataset público oficial puede descargarse directamente desde Kaggle:
 ![](images/Dashboard_1.png)
 
 
-3. **Impacto Geográfico y Logístico:** El estado de São Paulo concentra la mayor parte del mercado, favorecido por un costo de flete significativamente inferior al resto del país (R$ 15,14 promedio). En las regiones periféricas, el alto costo logístico actúa como barrera, limitando las transacciones a compras de ticket elevado.
-4. **Satisfacción del Cliente (Reviews):** El impacto negativo en la reputación de la marca proviene de la logística, no de los productos. Un envío entregado a tiempo obtiene una calificación promedio de 4.29 estrellas; si hay un retraso, el puntaje se desploma a 2.57 estrellas.
+2. **Impacto Geográfico y Logístico:** El estado de São Paulo concentra la mayor parte del mercado, favorecido por un costo de flete significativamente inferior al resto del país (R$ 15,14 promedio). En las regiones periféricas, el alto costo logístico actúa como barrera, limitando las transacciones a compras de ticket elevado.
+3. **Satisfacción del Cliente (Reviews):** El impacto negativo en la reputación de la marca proviene de la logística, no de los productos. Un envío entregado a tiempo obtiene una calificación promedio de 4.29 estrellas; si hay un retraso, el puntaje se desploma a 2.57 estrellas.
 
 ![](images/Dashboard_2.png)
 
